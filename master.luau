@@ -1,4 +1,4 @@
--- by visnouk vibecoded with love
+-- by 7yd7
 --[[
 getgenv().Settings = {
     CopyButton = false,
